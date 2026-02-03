@@ -8,6 +8,11 @@ p {
   font-size: 30px;
 }
 
+.btn {
+  color: yellow;
+  background-color: black;
+}
+
 img {
   max-width: 100%;
   height: auto;
