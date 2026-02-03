@@ -1,0 +1,15 @@
+body {
+  background-color: #f7f7f7;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+p {
+  color: blue;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
